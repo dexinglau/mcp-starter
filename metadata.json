@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Real-time global markets platform featuring live stock screeners, crypto heatmaps, interactive financial charts, currency rates, indices, and market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
